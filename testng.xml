@@ -1,0 +1,7 @@
+<suite name="TestSuite" parallel="methods" thread-count="2">
+    <test name="AmazonTests">
+        <classes>
+            <class name="com.assignment.LaunchTest"/>
+        </classes>
+    </test>
+</suite>
